@@ -84,18 +84,18 @@ int main(){
     cout << "\n\n";
     cout << "\t\tPROVINSI " << test1.prv << endl;
     cout << "\t\tKABUPATEN " << test1.kota << endl;
-    cout << "\nNIK		  : " << test1.nik << endl;
-    cout << "Nama		  : " << test1.nama << endl;
-    cout << "Tempat/Tgl Lahir  : " << test1.tgl << " " << test1.bulan << " " << test1.tahun << endl;
-    cout << "Jenis Kelamin	 : " << test1.jkl << "\tGol. Darah : " << test1.darah << endl;
-    cout << "Alamat		  : " << test1.alamat << endl;
+    cout << "\nNIK		: " << test1.nik << endl;
+    cout << "Nama		: " << test1.nama << endl;
+    cout << "Tempat/Tgl Lahir	: " << test1.tgl << " " << test1.bulan << " " << test1.tahun << endl;
+    cout << "Jenis Kelamin	: " << test1.jkl << "\tGol. Darah : " << test1.darah << endl;
+    cout << "Alamat		: " << test1.alamat << endl;
     cout << "	RT/RW		: " << test1.rt << "/" << test1.rw << endl;
     cout << "	Kel/Desa	: " << test1.desa << endl;
     cout << "	Kecamatan	: " << test1.kct << endl;
-    cout << "Agama			: " << test1.agama << endl;
-    cout << "Status Perkawinan : " << test1.kawin << endl;
+    cout << "Agama		: " << test1.agama << endl;
+    cout << "Status Perkawinan  : " << test1.kawin << endl;
     cout << "Pekerjaan		: " << test1.kerja << endl;
-    cout << "Kewarganegaraan : " << test1.negara << endl;
+    cout << "Kewarganegaraan    : " << test1.negara << endl;
     cout << "Berlaku Hingga 	: " << test1.berlaku << endl;	 
   
   
